@@ -1,0 +1,19 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "a project management application for  beginner",
+  "license": "ISC",
+  "author": "praveen kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.1"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
