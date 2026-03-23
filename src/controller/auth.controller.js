@@ -378,4 +378,4 @@ export {
   forgetPassword,
   resetForgetPassword,
   changeCurrentPassword,
-};
+}; 
